@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "marca": "Yamaha",
+    "modelo": "MT-07",
+    "año": 2021,
+    "precio": 18500000,
+    "km": 12000,
+    "color": "Azul",
+    "imagen": "🏍"
+  },
+  {
+    "id": "2",
+    "marca": "Honda",
+    "modelo": "CB500F",
+    "año": 2020,
+    "precio": 15800000,
+    "km": 22000,
+    "color": "Rojo",
+    "imagen": "🏍"
+  },
+  {
+    "id": "3",
+    "marca": "Suzuki",
+    "modelo": "GSX-S750",
+    "año": 2022,
+    "precio": 21000000,
+    "km": 5000,
+    "color": "Negro",
+    "imagen": "🏍"
+  }
+]
