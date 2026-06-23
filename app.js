@@ -18,7 +18,6 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.container}>
-      {/* Botón enorme que activa syncData — El Cerebro conecta el Órgano Vital */}
       <TouchableOpacity style={styles.botonEnorme} onPress={handleSync} activeOpacity={0.8}>
         <Text style={styles.botonTexto}>☁️ SINCRONIZAR DATOS</Text>
       </TouchableOpacity>
