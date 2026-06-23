@@ -1,15 +1,3 @@
-// App.js — Commit 3 (El Cerebro) en la rama legacy-engine
-// ─────────────────────────────────────────────────────────
-//  IMPORTANTE: Este archivo representa SOLO el estado del App.js
-//  en el Commit 3 de la rama legacy-engine. NO reemplaza tu App.js
-//  actual en main. Es el contenido que pegas en App.js SOLO durante
-//  la creación de la rama legacy-engine para hacer ese commit.
-//
-//  Después del cherry-pick, tu App.js en main recuperará este import
-//  de syncData más tu lógica original del concesionario.
-// ─────────────────────────────────────────────────────────
-
-// Importamos syncData desde cloudEngine (El Órgano Vital rescatado)
 import { syncData } from './src/utils/cloudEngine';
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView } from 'react-native';
