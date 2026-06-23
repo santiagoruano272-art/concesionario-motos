@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Concesionario App",
+    "slug": "concesionario-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#2B2B2B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2B2B2B"
+      }
+    },
+    "web": {
+    }
+  }
+}
